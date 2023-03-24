@@ -1,6 +1,6 @@
 version: "3.9"
 
 services:
-  ubuntu_lunar_2204:
-    image: brgilsonsp/ubuntu_lunar_2204
+  ubuntu_jammy_2204:
+    image: brgilsonsp/ubuntu_jammy_2204
     build: .
